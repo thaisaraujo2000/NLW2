@@ -1,9 +1,7 @@
 # Projeto
 > Projeto desenvolvido durante a Next Level Week #2
 
-</br>
 <hr>
-</br>
 
 ### :computer: Tecnologias utilizadas
 
