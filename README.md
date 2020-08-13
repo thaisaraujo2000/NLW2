@@ -1,7 +1,5 @@
 # Projeto
-<p align="center">
-  <img src="Proffy.png" width="500">
-</p>
+> Projeto desenvolvido durante a Next Level Week #2
 
 </br>
 <hr>
