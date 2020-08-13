@@ -1,5 +1,5 @@
-# Projeto
-> Projeto desenvolvido durante a Next Level Week #2
+# Projeto Proffy
+> Projeto desenvolvido durante a Next Level Week #2, promovida pela Rocketseat.
 
 <hr>
 
