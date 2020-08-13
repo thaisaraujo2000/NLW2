@@ -1,6 +1,6 @@
 # Projeto
 <p align="center">
-  <img src="proffy.png" width="500">
+  <img src="Proffy.png" width="500">
 </p>
 
 </br>
