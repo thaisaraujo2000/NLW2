@@ -1,6 +1,6 @@
 # Projeto
 <p align="center">
-  <img src="https://www.figma.com/file/NWcSWGor3K5BhvtfbcKy4m/Untitled?node-id=0%3A1" width="500">
+  <img src="proffy.png" width="500">
 </p>
 
 </br>
