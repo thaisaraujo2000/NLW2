@@ -1,7 +1,6 @@
 # Projeto Proffy
+***
 > Projeto desenvolvido durante a Next Level Week #2, promovida pela Rocketseat.
-
-<hr>
 
 ### :computer: Tecnologias utilizadas
 
